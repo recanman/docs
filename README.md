@@ -1,2 +1,3 @@
 # docs
-Public documentation for some things.
+
+I publish guides here that I may reference occasionally.
